@@ -18,7 +18,7 @@ pass wclip email/gmail
 - Add the `wclip.bash` file to `.password-store/.extensions`
   - Either copy the file or
   - Clone this repo as a submodule into `.password-store/.extensions/wclip` and
-  - Create a symlink (in `cmd`, not in `bash`)
+  - Create a symlink (in an elevated `cmd`, not in `bash`)
 ```
 cd %userprofile%\.password-store\.extensions
 mklink wclip.bash wclip\src\wclip.bash
