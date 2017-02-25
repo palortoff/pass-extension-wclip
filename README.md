@@ -12,6 +12,15 @@ pass wclip pass-name
 pass wclip email/gmail
 ```
 
+## Parameters
+
+Ass pass wclip uses the show command internally the `--clip` or `-c` parameter can be used to specify the line number.
+
+```
+pass wclip -c2 email/gmail
+pass wclip --clip=6 email/gmail
+```
+
 ## Installation
 (This extensions is for windows only)
 - First you have to enable extensions in pass by setting ``PASSWORD_STORE_ENABLE_EXTENSIONS=true``
