@@ -14,7 +14,7 @@ pass wclip email/gmail
 
 ## Parameters
 
-Ass pass wclip uses the show command internally the `--clip` or `-c` parameter can be used to specify the line number.
+As pass wclip uses the show command internally the `--clip` or `-c` parameter can be used to specify the line number.
 
 ```
 pass wclip -c2 email/gmail
