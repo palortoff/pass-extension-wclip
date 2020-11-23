@@ -1,6 +1,6 @@
 # pass wclip
 
-An extension for the [password store](https://www.passwordstore.org/) that copies a stored password into the windows clipboard using [wclip](https://github.com/palortoff/wclip) to hide it from password history managers.
+An extension for the [password store](https://www.passwordstore.org/) that copies a stored password into the windows clipboard using PowerShell commands to hide it from password history managers. Bascily minor mods on https://github.com/palortoff/pass-extension-wclip
 
 ## Usage
 ```
